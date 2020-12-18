@@ -4,6 +4,11 @@
 スパゲティです。修正して個人利用すればいいと思うの。  
 パッケージ、動かなくなるみたいだからパッケージ化されてない拡張機能を読み込む方法なら動くらしいよ。  
 This software is released under the MIT License.  
+### インストール  
+#### Firefox用インストール  
+[Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/showroomdarkmode/)  
+#### chorome用  
+ストアに手を出せないのでコードをそのままDLしてパッケージ化されていない拡張機能として使用してください。  
 ### 0.2.8  
 色み、黒い画像使ってたせいで気が付かなかったヘッダーの外観修正  
 ルーム設定ページで画像が上げられないバグ対策。  
