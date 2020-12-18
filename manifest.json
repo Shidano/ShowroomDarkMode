@@ -1,0 +1,97 @@
+{
+  "name": "Showroomダークモード",
+  "author": "@Shidano0730",
+  "description": "SHOWROOMの背景色を暗色にして目にやさしくします。This software is released under the MIT License.",
+  "version": "0.2.8",
+  "manifest_version": 2,
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.showroom-live.com/"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/follow"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/mypage/*"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/onlive"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/broadcast"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/user/*"],
+      "exclude_globs": ["https://www.showroom-live.com/user/account_setting","https://www.showroom-live.com/user/edit_room"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/fan_room/*"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/room/*"],
+      "exclude_globs": ["https://www.showroom-live.com/room/incentive_report"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/event_entry/*"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/support/*"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/social/*"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/room_avatar"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/event"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/ranking"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/user_notice/*"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/notice/*"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/user_avatar/*"],
+      "css": ["css/style.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/campaign/karaoke_ranking"],
+      "css": ["css/styleevent2.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/room/fan_club*"],
+      "css": ["css/stylefan_club.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/event/*"],
+      "exclude_globs": ["https://www.showroom-live.com/event"],
+      "css": ["css/styleevent2.css"]
+    },
+    {
+      "matches": ["https://www.showroom-live.com/user/edit_room"],
+      "css": ["css/styleevent2.css"]
+    }
+  ]
+}

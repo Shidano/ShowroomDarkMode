@@ -1,0 +1,30 @@
+.pc-header,l-main,.foot-app,.foot-app-inner,.foot-main,.listcardinfo{
+  background-color: #454545 !important;
+  color: #BBBBBB !important;
+}
+.pc-header-menus,.listcard-info{
+  background-color: #606060 !important;
+  color: #BBBBBB !important;
+}
+.is-showgold,.pc-header-mypage-name{
+  color: #80DD90 !important;
+  filter:brightness(100%) !important;
+}
+.pc-header-mypage-level,.pc-header-mypage-sg,.pc-header-mypage-description{
+  color: #90E0B0 !important;
+}
+.pc-header-menu :not(.pc-header-mypage-image .is-showgold .pc-header-mypage-name .pc-header-mypage-level .pc-header-mypage-sg .pc-header-mypage-description){
+  filter:brightness(60%);
+}
+.is-showgold{
+  filter:brightness(70%) !important;
+}
+.pc-header-search{
+  filter:brightness(90%);
+}
+.header-hamburger{
+  filter:invert(100%) !important;
+}
+.head-search-autocomplete{
+  color: #303030 !important;
+}
