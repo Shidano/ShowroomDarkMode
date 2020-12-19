@@ -8,7 +8,8 @@ This software is released under the MIT License.
 #### Firefox用インストール  
 [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/showroomdarkmode/)  
 #### chorome用  
-ストアに手を出せないのでコードをそのままDLしてパッケージ化されていない拡張機能として使用してください。  
+ストアに手を出せないのでコードをそのままDLしてパッケージ化されていない拡張機能として使用してください。 
+[google driveのリンク(別にここで落とせばよい気もする)](https://drive.google.com/drive/folders/1esKNcap8jtqoPlBgR6kc44oUAhYwpdNX?usp=sharing)
 ### 1.0.0  
 拡張機能アイコンを触って一時的にオフにできるようになった！！！！！！  
 ### 課題
