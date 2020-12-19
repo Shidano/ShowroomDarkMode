@@ -9,9 +9,8 @@ This software is released under the MIT License.
 [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/showroomdarkmode/)  
 #### chorome用  
 ストアに手を出せないのでコードをそのままDLしてパッケージ化されていない拡張機能として使用してください。  
-### 0.2.8  
-色み、黒い画像使ってたせいで気が付かなかったヘッダーの外観修正  
-ルーム設定ページで画像が上げられないバグ対策。  
+### 1.0.0  
+拡張機能アイコンを触って一時的にオフにできるようになった！！！！！！  
 ### 課題
 ルーム詳細のオンライブとファンルームボタンの説明がどうあがいても変わらんのとアバターアップ時の挙動が不明
 ### 連絡先
