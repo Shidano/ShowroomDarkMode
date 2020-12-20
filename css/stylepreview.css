@@ -1,0 +1,101 @@
+body {
+  background-color: #242424 !important;
+  color: #EEEEEE !important;
+}
+.text,.p-b2,.contentlist-heading,.fcol-gray,.categorymenu-box,.room-profile-body-main,.room-profile-menu,.ov-h,.link-arrow-right-gray,._pc__liveListItemDataHead___1lFC9,.mb-b4,.LiveReport__liveListEmpty___24YeJ,._pc__liveResultDuration___2XSHN,.LiveReport__liveListResultItem___2iDTY,.room-profile-head-action-menu,.keyslider-info,.tx-description,.box-head,.tx-head,.tx-date,.head-main,.msg-wrapper,.mt-b4{
+  color: #EEEEEE !important;
+}
+.pc-header,.p-b4,l-main,.foot-app,.foot-app-inner,.foot-main,.listcardinfo,.pickup-content,.side-subbanners-wrapper,.pickup-content-border,.foot-app-inner-image{
+  background-color: #454545 !important;
+  color: #BBBBBB !important;
+}
+.pc-header-menus,.listcard-info{
+  background-color: #606060 !important;
+  color: #BBBBBB !important;
+}
+.categorymenu-box,.categorymenu{
+  background-color: #303030 !important;
+  filter:brightness(90%) !important;
+}
+.is-showgold,.pc-header-mypage-name{
+  color: #80DD90 !important;
+  filter:brightness(100%) !important;
+}
+.pc-header-mypage-level,.pc-header-mypage-sg,.pc-header-mypage-description{
+  color: #90E0B0 !important;
+}
+.pc-header-menu :not(.pc-header-mypage-image .is-showgold .pc-header-mypage-name .pc-header-mypage-level .pc-header-mypage-sg .pc-header-mypage-description){
+  filter:brightness(60%);
+}
+.is-showgold{
+  filter:brightness(70%) !important;
+}
+.pc-header-search{
+  filter:brightness(90%);
+}
+.listcardinfo-main-text,.listcard-name{
+  color: #EEEEEE !important;
+}
+.listcardinfo-sub-text,.listcard-profile,.onlivecard-label{
+  color: #BBBBBB !important;
+}
+.listcardinfo-menu,.is-onlive,.side-link,.room-profile-head-action-menu{
+  filter:saturate(70%) !important;
+}
+.gcontents-heading,.sp-tab-category,.LiveReport__datePagerPrev___3tU6n,.LiveReport__datePagerNext___UG4eJ{
+  filter: invert(100%)!important;
+}
+.onlivecard-info,.keyslider,.l-top-content,.contentlist,._pc__myPageContainer___9LmKn{
+  filter:brightness(90%) !important;
+}
+.onlivecard-label,.LiveReport__datePagerCurrent___1D9kI{
+  color: #FFFFFF !important;
+}
+.side-subbanners-wrapper,.pickup-content-border{
+  filter:brightness(70%) !important;
+}
+.menu{
+  filter: contrast(1%);
+}
+._pc__challengeContainer___2NiuB {
+  color: #777777 !important;
+}
+.l-inner{
+  background-color: #303030 !important;
+}
+._pc__cardGridHolder___1RpGi,._pc__liveReport___1IWdA{
+  background-color: #505050 !important;
+}
+._pc__challengeContainer___2NiuB{
+  background-color: #666666 !important;
+}
+.mypage-head-bg,.LiveReport__liveResultData___uOJfr,.room-profile-info-heading{
+  filter:brightness(250%) !important;
+}
+.header-hamburger{
+  filter:invert(100%) !important;
+}
+.col-5{
+  filter:brightness(300%) !important;
+}
+._pc__pageTitle___1cBPB,.head-search-autocomplete,.tx-time-elapse,.tx-time-total,.LiveReport__summary___1CFb3,.list-gift-history,.clearfix,.LiveReport__liveListItemHeaderItem___14nn4,.table-type-02,.table-type-03,.box-thank-modal{
+  color: #303030 !important;
+}
+.bg-light-gray,.fl-r,.form-tx,.box-arrow-select{
+  color: #454545 !important;
+}
+.head-main{
+  color: #606060 !important;
+}
+.room-profile-body-sub,.room-profile-body{
+  background-color: #757578 !important;
+}
+._pc__blockList___3NxsS{
+  background-color: #888888 !important;
+}
+.room-profile-official-label{
+  color: #88EEAA !important;
+}
+.term-link{
+  filter:saturate(90%) !important;
+}

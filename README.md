@@ -9,8 +9,8 @@ This software is released under the MIT License.
 [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/showroomdarkmode/)  
 #### chorome用  
 [ストアに手を出せないのでコードをそのままDLしてパッケージ化されていない拡張機能として使用してください。Driveリンク](https://drive.google.com/drive/folders/1esKNcap8jtqoPlBgR6kc44oUAhYwpdNX?usp=sharing)  
-### 1.0.1  
-拡張機能アイコンを触って一時的にオフにできるようになった！！！！！！そして修正  
+### 1.0.2  
+拡張機能アイコンを触って一時的にオフにできるようになった！！！！！！そしてバグ修正  
 ### 課題
 ルーム詳細のオンライブとファンルームボタンの説明がどうあがいても変わらんのとアバターアップ時の挙動が不明
 ### 連絡先

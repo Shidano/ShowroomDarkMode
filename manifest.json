@@ -2,7 +2,7 @@
   "name": "Showroomダークモード",
   "author": "@Shidano0730",
   "description": "SHOWROOMの背景色を暗色にして目にやさしくします。This software is released under the MIT License.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 2,
   "permissions": [	"storage",
 			"tabs"
@@ -21,7 +21,7 @@
     {
       "matches": ["https://www.showroom-live.com/"],
       "exclude_globs": ["*?lm"],
-      "css": ["css/style.css"]
+      "css": ["css/stylepreview.css"]
     },
     {
       "matches": ["https://www.showroom-live.com/follow"],
@@ -36,7 +36,7 @@
     {
       "matches": ["https://www.showroom-live.com/onlive"],
       "exclude_globs": ["*?lm"],
-      "css": ["css/style.css"]
+      "css": ["css/stylepreview.css"]
     },
     {
       "matches": ["https://www.showroom-live.com/broadcast"],
@@ -108,7 +108,7 @@
     {
       "matches": ["https://www.showroom-live.com/user_avatar/*"],
       "exclude_globs": ["*?lm"],
-      "css": ["css/style.css"]
+      "css": ["css/stylepreview.css"]
     },
     {
       "matches": ["https://www.showroom-live.com/campaign/karaoke_ranking"],

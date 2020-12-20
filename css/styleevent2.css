@@ -28,6 +28,10 @@
 .header-hamburger{
   filter:invert(100%) !important;
 }
+.side-link{
+  filter:saturate(70%) !important;
+  color: #EEEEEE !important;
+}
 .head-search-autocomplete{
   color: #303030 !important;
 }

@@ -22,6 +22,10 @@
 .pc-header-search{
   filter:brightness(90%);
 }
+.side-link{
+  filter:saturate(70%) !important;
+  color: #EEEEEE !important;
+}
 .header-hamburger{
   filter:invert(100%) !important;
 }
