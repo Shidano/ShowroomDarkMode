@@ -7,8 +7,8 @@ This software is released under the MIT License.
 ### インストール  
 #### Firefox用インストール  
 [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/showroomdarkmode/)  
-#### chrome用  
-[chromeウェブストア](https://chrome.google.com/webstore/detail/showroom%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89/lgjeoakciijlihpeakfchhelidkhgjda/)  
+#### Chrome用  
+[Chromeウェブストア](https://chrome.google.com/webstore/detail/showroom%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89/lgjeoakciijlihpeakfchhelidkhgjda/)  
 ### 1.1.0  
 不要な権限の除去  
 ### 課題
