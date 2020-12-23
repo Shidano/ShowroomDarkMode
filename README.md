@@ -5,7 +5,7 @@
 パッケージ、動かなくなるみたいだからパッケージ化されてない拡張機能を読み込む方法なら動くらしいよ。  
 This software is released under the MIT License.  
 ### インストール  
-#### Firefox用インストール  
+#### Firefox用  
 [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/showroomdarkmode/)  
 #### Chrome用  
 [Chromeウェブストア](https://chrome.google.com/webstore/detail/showroom%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89/lgjeoakciijlihpeakfchhelidkhgjda/)  
