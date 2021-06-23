@@ -2,9 +2,15 @@
   background-color: #454545 !important;
   color: #BBBBBB !important;
 }
-.pc-header-menus,.listcard-info{
+.pc-header-menus,.listcard-info,.commentFormWrapper{
   background-color: #606060 !important;
   color: #BBBBBB !important;
+}
+.post-delete,.post-time,.name{
+  color: #CCCCCC !important;
+}
+.user-comment{
+  
 }
 .is-showgold,.pc-header-mypage-name{
   color: #80DD90 !important;
@@ -25,6 +31,9 @@
 .side-link{
   filter:saturate(70%) !important;
   color: #EEEEEE !important;
+}
+.commentList{
+  background-color: #BBBBBB !important;
 }
 .header-hamburger{
   filter:invert(100%) !important;
