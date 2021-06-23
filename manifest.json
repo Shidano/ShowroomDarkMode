@@ -2,7 +2,7 @@
   "name": "Showroomダークモード",
   "author": "@Shidano0730",
   "description": "SHOWROOMの背景色を暗色にして目にやさしくします。This software is released under the MIT License.",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "manifest_version": 2,
   "permissions": [	
 			"tabs"
