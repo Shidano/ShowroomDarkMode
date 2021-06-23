@@ -60,10 +60,10 @@
     {
       "matches": ["https://www.showroom-live.com/room/*"],
       "exclude_globs": [
-			"https://www.showroom-live.com/room/incentive_report",
+			"https://www.showroom-live.com/room/incentive_report*",
 			"*?lm"
 			],
-      "css": ["css/style.css"]
+      "css": ["css/styleroom.css"]
     },
     {
       "matches": ["https://www.showroom-live.com/event_entry/*"],

@@ -1,8 +1,8 @@
-.body {
+body {
   background-color: #242424 !important;
   color: #EEEEEE !important;
 }
-.broadcast-bottom-menu,.text,.p-b2,.contentlist-heading,.fcol-gray,.categorymenu-box,.room-profile-body-main,.room-profile-menu,.ov-h,.link-arrow-right-gray,._pc__liveListItemDataHead___1lFC9,.mb-b4,.LiveReport__liveListEmpty___24YeJ,._pc__liveResultDuration___2XSHN,.LiveReport__liveListResultItem___2iDTY,.room-profile-head-action-menu,.keyslider-info,.tx-description,.box-head,.tx-head,.tx-date,.head-main,.msg-wrapper,.mt-b4{
+.text,.p-b2,.contentlist-heading,.fcol-gray,.categorymenu-box,.room-profile-body-main,.room-profile-menu,.ov-h,.link-arrow-right-gray,._pc__liveListItemDataHead___1lFC9,.mb-b4,.LiveReport__liveListEmpty___24YeJ,._pc__liveResultDuration___2XSHN,.LiveReport__liveListResultItem___2iDTY,.room-profile-head-action-menu,.keyslider-info,.tx-description,.box-head,.tx-head,.tx-date,.head-main,.msg-wrapper,.mt-b4,.room-inner{
   color: #EEEEEE !important;
 }
 .pc-header,.p-b4,l-main,.foot-app,.foot-app-inner,.foot-main,.listcardinfo,.pickup-content,.side-subbanners-wrapper,.pickup-content-border,.foot-app-inner-image{
@@ -98,18 +98,4 @@
 }
 .term-link{
   filter:saturate(90%) !important;
-}
-.broadcast-menu-event-item {
-  filter:saturate(80%) !important;
-}
-.broadcast-balloon{
-  filter:brightness(85%) !important;
-  color: #585858 !important;
-}
-.box-broadcast-events,.broadcast-menu-item,.box-broadcast-about,.space-broadcast,.box-broadcast-link {
-  color: #EEEEEE !important;
-  background-color: #151515 !important;
-}
-.control-head {
-  background-color: #444444 !important;
 }

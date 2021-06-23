@@ -9,10 +9,8 @@ This software is released under the MIT License.
 [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/showroomdarkmode/)  
 #### chrome用  
 [chromeウェブストア](https://chrome.google.com/webstore/detail/showroom%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89/lgjeoakciijlihpeakfchhelidkhgjda/)  
-### 1.1.1  
-ジュエルと一緒に謎の配信管理ページの変更が入ったので暫定対応  
-### 課題
-ルーム詳細のオンライブとファンルームボタンの説明がどうあがいても変わらんのとアバターアップ時の挙動が不明
+### 1.1.2  
+見えない文字をみえるようにしようとした
 ### 連絡先
 [Twitter @Shidano0730](https://twitter.com/Shidano0730)
 
